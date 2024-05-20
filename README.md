@@ -1,3 +1,6 @@
+# 💫 About Me:
+🧑‍💻 Full-Stack MERN Stack Developer.<br>📖Studying Computer Science at Techno Main Saltlake, Kolkata, India (2021-2025).<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sovan-roy-00) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SovanRoy00) 
